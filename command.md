@@ -1,5 +1,5 @@
 # Dockerfile 常用命令
-* FROM<br>
+* <strong>FROM</strong><br>
 指定base镜像
 * MAINTAINER<br>
 设置镜像的作者，可以是任意字符串
